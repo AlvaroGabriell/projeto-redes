@@ -9,7 +9,7 @@ html, body{
 height: 100vh;
 width: 100vw;
 background-color: black;
-over-flow:hidden;
+overflow:hidden;
 }
 body{
 background:url(imagens/fundo-madeira.jpg) no-repeat top center;
